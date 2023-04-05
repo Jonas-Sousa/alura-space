@@ -26,4 +26,12 @@ main {
   height: 144px;
   top: 75px;
   left: 44px;
+}
+
+.galeria {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-left: 17%;
+  margin-top: 1rem;
 }/*# sourceMappingURL=Pagina-inicial.module.css.map */
