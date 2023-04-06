@@ -18,11 +18,11 @@
     width: 380px;
     padding: 0;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 
     li {
       background-color: $tag-color;
-      padding: 6px 10px;
+      padding: 6px 6px;
       border-radius: 8px;
       cursor: pointer;
     }
