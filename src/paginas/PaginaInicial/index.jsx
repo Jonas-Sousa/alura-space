@@ -2,6 +2,7 @@ import styles from "./Pagina-inicial.module.scss"
 import Cabecalho from "../../componentes/Cabecalho";
 import Menu from "../../componentes/Menu";
 import Banner from "./banner.png"
+import Galeria from "../../componentes/Galeria";
 
 export default function PaginaInicial () {
     
@@ -20,6 +21,9 @@ export default function PaginaInicial () {
                     </div>
                 </section>
             </main>
+            <div className={styles.galeria}>
+                <Galeria />
+            </div>
         </body>
     )
 }
