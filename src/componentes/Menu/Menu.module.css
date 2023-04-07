@@ -10,6 +10,18 @@
   flex-direction: column;
   justify-content: space-around;
 }
+.menu__lista img {
+  margin-right: 0.5rem;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+.menu__lista a {
+  text-decoration: none;
+  font-size: 1.125rem;
+  color: #d9d9d9;
+  font-family: "GandhiSansRegular";
+}
 .menu__item {
   display: flex;
   justify-content: flex-start;
@@ -18,17 +30,5 @@
 .menu__item:first-child a {
   font-weight: 700;
   color: #7b78e5;
-  font-family: "GandhiSansRegular";
-}
-.menu img {
-  margin-right: 0.5rem;
-  width: 25px;
-  height: 25px;
-  cursor: pointer;
-}
-.menu a {
-  text-decoration: none;
-  font-size: 1.125rem;
-  color: #d9d9d9;
   font-family: "GandhiSansRegular";
 }/*# sourceMappingURL=Menu.module.css.map */
