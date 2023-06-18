@@ -14,11 +14,7 @@ O projeto alura space é uma landing page que exibe uma galeria de fotos relacio
 - <a href="#autores">Autores</a>
 
 ## 📱Tecnologias utilizadas
-1. [Angular](https://angular.io/cli)
-2. [Observables](https://angular.io/guide/observables)
-3. [Router](https://angular.io/guide/router)
-4. [Google Books Api](https://developers.google.com/books?hl=pt-br)
-
+1. [React](https://legacy.reactjs.org)
 ## 🎯Propósito
 O propósito deste projeto em React é aprimorar os conhecimentos na biblioteca React. Foi um projeto acadêmico criado em colaboração com a Alura, com o objetivo de explorar e dominar os conceitos da criação de uma landing page em React.
 
