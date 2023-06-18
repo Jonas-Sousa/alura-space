@@ -1,4 +1,4 @@
-# Projeto Buscante
+# Projeto Alura Space
 
 ![fotoExemplo](./src/assets/aluraspace.png)
 
